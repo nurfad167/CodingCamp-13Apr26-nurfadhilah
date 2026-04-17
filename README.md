@@ -1,2 +1,2 @@
 # CodingCamp-13Apr26-nurfadhilah
-Mini Project Batcg 13-04-2026
+Mini Project Batch 13-04-2026
